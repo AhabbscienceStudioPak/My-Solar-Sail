@@ -1,3 +1,2 @@
-Created by Codrops
+Created by Ahabbscience Studio Pakistan.
 
-Please read about our license: http://tympanus.net/codrops/licensing/
