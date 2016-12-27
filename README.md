@@ -1,2 +1,3 @@
-# My-Solar-Sail
-A website on Solar Sail technology.
+Created by Codrops
+
+Please read about our license: http://tympanus.net/codrops/licensing/
